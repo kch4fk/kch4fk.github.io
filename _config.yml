@@ -1,2 +1,4 @@
 name: Kay Hutchinson
 markdown: kramdown
+
+theme: jekyll-theme-minimal
