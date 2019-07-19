@@ -44,13 +44,14 @@ ul.posts li {
 
 .column {
     float: left;
+    padding: 10px;
 }
  
-.left {
+.column.left {
     width: 25%;
 }
 
-.right {
+.column.right {
     width:75%;  
 }
 
