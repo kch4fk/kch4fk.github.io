@@ -1,6 +1,6 @@
 body {
     margin: 0px;  /*60px;*/
-    /*width: 100%;*/
+    width: 100%;
 }
 
 nav ul, footer ul {
@@ -11,9 +11,9 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    /*margin-right: 20px;
     margin-left: 20px;
-    overflow: hidden;
+    overflow: hidden; */
     /*background-color: #333;*/
     position: fixed; /*Set the navbar to fixed position*/
     top: 0; /*Position the navbar at the top of the page*/
