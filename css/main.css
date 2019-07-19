@@ -53,7 +53,7 @@ ul.posts li {
 }
 
 .column.right {
-    width:75%;  
+    width: 50%;  
 }
 
 /*Clear floats after the columns*/
