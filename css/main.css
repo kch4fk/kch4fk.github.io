@@ -67,7 +67,7 @@ ul.posts li {
 }
 
 .column.right {
-    /*width: 50%;*/  
+    width: 50%;
 }
 
 /*Clear floats after the columns*/
@@ -78,7 +78,7 @@ ul.posts li {
 }
 
 @media screen and (max-width: 400px) {
- .column {
+ .column.left, .column.right {
      width: 100%;
   }
 }
