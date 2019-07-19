@@ -12,12 +12,12 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     /*margin-right: 20px;
-    margin-left: 20px;
-    overflow: hidden; */
+    margin-left: 20px;*/
+    overflow: hidden; 
     /*background-color: #333;*/
-    position: fixed; /*Set the navbar to fixed position*/
-    top: 0; /*Position the navbar at the top of the page*/
-    width: 100%; /*Full width*/
+    /*position: fixed; *//*Set the navbar to fixed position*/
+    /*top: 0;*/ /*Position the navbar at the top of the page*/
+    /*width: 100%;*/ /*Full width*/
 }
 a {
     text-decoration: none;
@@ -39,6 +39,7 @@ p {
 .image {
     width: 300 px;
     border-radius: 50%;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
