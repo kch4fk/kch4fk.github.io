@@ -67,7 +67,7 @@ ul.posts li {
 }
  
 .column.left {
-    width: 400px;
+    width: 25%;/*400px;*/
 }
 
 .column.right {
@@ -81,7 +81,7 @@ ul.posts li {
     clear: both;
 }
 
-@media screen and (max-width: 400px) {
+@media (max-width: 600px) {
  .column.left, .column.right {
      width: 100%;
   }
