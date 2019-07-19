@@ -1,5 +1,5 @@
 body {
-    margin: 0;  /*60px;*/
+    margin: 20px;  /*60px;*/
     /*width: 100%;*/
 }
 nav ul, footer ul {
@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #333; /*#666;*/
 }
 a:hover {
     text-decoration: underline;
