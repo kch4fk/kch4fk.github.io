@@ -97,15 +97,18 @@ ul.posts li {
 .column {
     float: left;
     padding: 0px;
-    margin-top: 50px;
+    margin-top: 40px;
 }
  
 .column.left {
     width: 30%;*//*400px;*/
+    margin-top: 40px;
 }
 
 .column.right {
     width: 70%;
+    margin-top: 40px;
+    padding: 20px;
 }
 
 /*Clear floats after the columns*/
