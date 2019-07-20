@@ -115,7 +115,7 @@ ul.posts li {
     clear: both;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
  .column.left, .column.right {
      width: 100%;
   }
