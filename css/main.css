@@ -46,7 +46,7 @@ li a {
     text-decoration: none;
 }
 
-ul li a: hover {
+li a: hover {
     background-color: #ddd;
     color: yellow;
 }
@@ -106,7 +106,7 @@ ul.posts li {
 }
 
 .column.right {
-    width: 70%;
+    width: 50%;
     padding-top: 40px;
     padding-left: 20px;
     padding-right: 20px;
