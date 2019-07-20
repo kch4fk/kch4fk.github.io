@@ -1,7 +1,7 @@
-body {
+/*body {
     margin: 0px;  /*60px;*/
     width: 100%;
-}
+}*/
 
 /*nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -52,16 +52,16 @@ li a: hover {
 }
 
 
-a {
+/*a {
     text-decoration: none;
-    color: #333; /*#666;*/
-}
+    color: #333; */ /*#666;*/
+/*}
 
 a:hover {
     text-decoration: underline;
-}
+}*/
 
-h1 {
+/*h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -70,7 +70,7 @@ p {
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
-}
+}*/
 
 .image {
     width: 300 px;
