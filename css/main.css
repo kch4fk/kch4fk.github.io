@@ -101,11 +101,11 @@ ul.posts li {
 }
  
 .column.left {
-    width: 25%;*//*400px;*/
+    width: 30%;*//*400px;*/
 }
 
 .column.right {
-    width: 75%;
+    width: 70%;
 }
 
 /*Clear floats after the columns*/
@@ -115,7 +115,7 @@ ul.posts li {
     clear: both;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1000px) {
  .column.left, .column.right {
      width: 100%;
   }
