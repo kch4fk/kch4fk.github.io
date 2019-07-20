@@ -96,8 +96,8 @@ ul.posts li {
 
 .column {
     float: left;
-    padding: 10px;
-    margin-top: 60px;
+    padding: 0px;
+    margin-top: 50px;
 }
  
 .column.left {
