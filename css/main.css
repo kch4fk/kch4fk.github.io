@@ -1,7 +1,7 @@
-/*body {
+body {
     margin: 0px;  /*60px;*/
     width: 100%;
-}*/
+}
 
 /*nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -61,7 +61,7 @@ a {
     text-decoration: underline;
 }*/
 
-/*h1 {
+h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -70,7 +70,7 @@ p {
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
-}*/
+}
 
 .image {
     width: 300 px;
