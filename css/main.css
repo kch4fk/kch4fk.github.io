@@ -52,12 +52,12 @@ li a: hover {
 }
 
 
-/*a {
+a {
     text-decoration: none;
-    color: #333; */ /*#666;*/
-/*}
+    color: #333;  /*#666;*/
+}
 
-a:hover {
+/*a:hover {
     text-decoration: underline;
 }*/
 
