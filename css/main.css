@@ -96,7 +96,7 @@ ul.posts li {
 
 .column {
     float: left;
-    padding: 100px;
+    padding: 10px;
 }
  
 .column.left {
@@ -114,7 +114,7 @@ ul.posts li {
     clear: both;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 400px) {
  .column.left, .column.right {
      width: 100%;
   }
