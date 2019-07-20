@@ -46,16 +46,16 @@ li a {
     text-decoration: none;
 }
 
-li a: hover {
+li a:hover {
     background-color: #ddd;
     color: yellow;
 }
 
 
-a {
+/*a {
     text-decoration: none;
     color: #333;  /*#666;*/
-}
+}*/
 
 /*a:hover {
     text-decoration: underline;
