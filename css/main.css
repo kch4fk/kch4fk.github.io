@@ -108,7 +108,7 @@ ul.posts li {
 .column.right {
     width: 70%;
     margin-top: 40px;
-    padding: 20px;
+    /*padding: 20px;*/
 }
 
 /*Clear floats after the columns*/
