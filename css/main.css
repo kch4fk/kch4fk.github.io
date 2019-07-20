@@ -47,8 +47,8 @@ li a {
 }
 
 li a: hover {
-    background-color: #aaa;
-    color: white;
+    background-color: #666;
+    color: yellow;
 }
 
 
@@ -101,7 +101,7 @@ ul.posts li {
 }
  
 .column.left {
-    width: 30%;*//*400px;*/
+    width: 700px; /*30%;*//*400px;*/
     padding-top: 40px;
 }
 
