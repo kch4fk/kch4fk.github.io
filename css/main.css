@@ -8,6 +8,10 @@ body {
   padding: 40px;
 } 
 
+.list {
+    display: block;
+}
+
 /*nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;*/  /*40px;*/
