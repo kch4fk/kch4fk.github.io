@@ -1,6 +1,7 @@
 body {
     margin: 0px;  /*60px;*/
     width: 100%;
+    font-family:'Verdana', 'Helvetica', 'Arial';
 }
 
 .content {
