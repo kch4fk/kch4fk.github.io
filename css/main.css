@@ -3,6 +3,11 @@ body {
     width: 100%;
 }
 
+.content {
+  margin: 40px;
+  padding: 40px;
+} 
+
 /*nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;*/  /*40px;*/
